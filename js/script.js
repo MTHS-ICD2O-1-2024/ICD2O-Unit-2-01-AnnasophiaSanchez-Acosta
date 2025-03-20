@@ -7,7 +7,6 @@
 /**
  * Displays an alert with the message "Hello, World!"
  */
-
 function myButtonClicked() {
   document.getElementById("answer").innerHTML = "Hello, World!"
 }
